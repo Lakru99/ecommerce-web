@@ -1,4 +1,4 @@
-package fr.codecake.ecom.shared.error.domain;
+package com.aqurumedia.ecom.shared.error.domain;
 
 import java.time.Instant;
 

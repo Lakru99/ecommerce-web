@@ -1,4 +1,4 @@
-package fr.codecake.ecom.shared.authentication.application;
+package com.aqurumedia.ecom.shared.authentication.application;
 
 import com.nimbusds.jose.shaded.gson.internal.LinkedTreeMap;
 import fr.codecake.ecom.shared.authentication.domain.Role;

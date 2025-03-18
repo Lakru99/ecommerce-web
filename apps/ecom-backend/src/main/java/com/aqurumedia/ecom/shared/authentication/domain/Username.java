@@ -1,4 +1,4 @@
-package fr.codecake.ecom.shared.authentication.domain;
+package com.aqurumedia.ecom.shared.authentication.domain;
 
 
 

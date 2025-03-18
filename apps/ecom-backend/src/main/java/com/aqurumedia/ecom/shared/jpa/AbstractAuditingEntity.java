@@ -1,4 +1,4 @@
-package fr.codecake.ecom.shared.jpa;
+package com.aqurumedia.ecom.shared.jpa;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;
