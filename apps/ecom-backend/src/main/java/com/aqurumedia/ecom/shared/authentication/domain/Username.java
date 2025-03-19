@@ -2,7 +2,7 @@ package com.aqurumedia.ecom.shared.authentication.domain;
 
 
 
-import fr.codecake.ecom.shared.error.domain.Assert;
+import com.aqurumedia.ecom.shared.error.domain.Assert;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.Optional;

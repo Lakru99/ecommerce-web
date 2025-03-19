@@ -1,10 +1,10 @@
 package com.aqurumedia.ecom.shared.authentication.application;
 
 import com.nimbusds.jose.shaded.gson.internal.LinkedTreeMap;
-import fr.codecake.ecom.shared.authentication.domain.Role;
-import fr.codecake.ecom.shared.authentication.domain.Roles;
-import fr.codecake.ecom.shared.authentication.domain.Username;
-import fr.codecake.ecom.shared.error.domain.Assert;
+import com.aqurumedia.ecom.shared.authentication.domain.Role;
+import com.aqurumedia.ecom.shared.authentication.domain.Roles;
+import com.aqurumedia.ecom.shared.authentication.domain.Username;
+import com.aqurumedia.ecom.shared.error.domain.Assert;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.context.SecurityContextHolder;
